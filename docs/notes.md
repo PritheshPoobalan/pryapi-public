@@ -79,3 +79,6 @@ Documentation notes for section 257 added.
 ## Section 267
 Documentation notes for section 267 added.
 
+## Section 277
+Documentation notes for section 277 added.
+
