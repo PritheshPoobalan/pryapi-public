@@ -4,3 +4,5 @@ export function feature1() { return 1; }
 export function feature11() { return 11; }
 // Feature: added module 21 support
 export function feature21() { return 21; }
+// Feature: added module 31 support
+export function feature31() { return 31; }
