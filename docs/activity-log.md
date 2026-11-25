@@ -46,3 +46,4 @@
 - 2026-11-25T09:43:22Z | Document integration points
 - 2026-11-25T09:43:22Z | Add code comments for error messages
 - 2026-11-25T09:43:22Z | Create example README snippet
+- 2026-11-25T09:43:22Z | Document performance considerations
