@@ -3,3 +3,4 @@
 - 2026-11-25T09:43:20Z | Add usage examples to README
 - 2026-11-25T09:43:20Z | Document contributing guidelines in README
 - 2026-11-25T09:43:20Z | Clarify license information in README
+- 2026-11-25T09:43:20Z | Add code comments explaining main entry point
