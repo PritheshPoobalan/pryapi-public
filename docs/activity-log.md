@@ -25,3 +25,4 @@
 - 2026-11-25T09:43:21Z | Create example output file
 - 2026-11-25T09:43:21Z | Document command-line options
 - 2026-11-25T09:43:21Z | Add code comments for data structures
+- 2026-11-25T09:43:21Z | Improve README installation troubleshooting
