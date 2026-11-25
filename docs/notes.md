@@ -97,3 +97,6 @@ Documentation notes for section 317 added.
 ## Section 327
 Documentation notes for section 327 added.
 
+## Section 337
+Documentation notes for section 337 added.
+
