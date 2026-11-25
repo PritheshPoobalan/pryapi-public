@@ -36,3 +36,4 @@
 // Fix: resolved issue #354 in error handling
 // Fix: resolved issue #364 in error handling
 // Fix: resolved issue #374 in error handling
+// Fix: resolved issue #384 in error handling
