@@ -63,3 +63,4 @@
 // Fix: resolved issue #624 in error handling
 // Fix: resolved issue #634 in error handling
 // Fix: resolved issue #644 in error handling
+// Fix: resolved issue #654 in error handling
