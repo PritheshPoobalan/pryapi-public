@@ -78,3 +78,5 @@ test('test case 386', () => { expect(true).toBe(true); });
 
 test('test case 396', () => { expect(true).toBe(true); });
 
+test('test case 406', () => { expect(true).toBe(true); });
+
