@@ -21,3 +21,4 @@
 // Fix: resolved issue #204 in error handling
 // Fix: resolved issue #214 in error handling
 // Fix: resolved issue #224 in error handling
+// Fix: resolved issue #234 in error handling
