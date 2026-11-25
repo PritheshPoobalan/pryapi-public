@@ -36,3 +36,8 @@ See [docs/api.md](./docs/api.md) for the full API reference.
 ## License
 
 MIT
+
+## Documentation update 1
+
+Improved project documentation for pryapi-public (entry 1, 2026-11-25T08:04:16Z).
+- Clarified repository structure and purpose.
