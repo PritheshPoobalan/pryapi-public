@@ -94,3 +94,5 @@ export function feature451() { return 451; }
 export function feature461() { return 461; }
 // Feature: added module 471 support
 export function feature471() { return 471; }
+// Feature: added module 481 support
+export function feature481() { return 481; }
