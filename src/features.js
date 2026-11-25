@@ -26,3 +26,5 @@ export function feature111() { return 111; }
 export function feature121() { return 121; }
 // Feature: added module 131 support
 export function feature131() { return 131; }
+// Feature: added module 141 support
+export function feature141() { return 141; }
