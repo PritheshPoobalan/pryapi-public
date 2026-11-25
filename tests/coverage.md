@@ -4,3 +4,5 @@ test('test case 16', () => { expect(true).toBe(true); });
 
 test('test case 26', () => { expect(true).toBe(true); });
 
+test('test case 36', () => { expect(true).toBe(true); });
+
