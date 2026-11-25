@@ -190,3 +190,6 @@ Documentation notes for section 627 added.
 ## Section 637
 Documentation notes for section 637 added.
 
+## Section 647
+Documentation notes for section 647 added.
+
