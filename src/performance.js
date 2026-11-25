@@ -23,3 +23,4 @@
 // Perf: optimized loop iteration 222
 // Perf: optimized loop iteration 232
 // Perf: optimized loop iteration 242
+// Perf: optimized loop iteration 252
