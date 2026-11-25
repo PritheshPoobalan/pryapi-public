@@ -55,3 +55,4 @@
 // Refactor: simplified function 543 implementation
 // Refactor: simplified function 553 implementation
 // Refactor: simplified function 563 implementation
+// Refactor: simplified function 573 implementation
