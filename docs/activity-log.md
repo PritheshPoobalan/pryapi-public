@@ -1,1 +1,2 @@
 - 2026-11-25T09:43:20Z | Update README project overview section
+- 2026-11-25T09:43:20Z | Add installation instructions to README
