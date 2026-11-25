@@ -55,3 +55,4 @@
 - 2026-11-25T09:43:23Z | Create example feature file
 - 2026-11-25T09:43:23Z | Add comments for external dependencies
 - 2026-11-25T09:43:23Z | Update README table of contents
+- 2026-11-25T09:43:23Z | Document input validation rules
