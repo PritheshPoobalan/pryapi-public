@@ -112,3 +112,6 @@ Documentation notes for section 367 added.
 ## Section 377
 Documentation notes for section 377 added.
 
+## Section 387
+Documentation notes for section 387 added.
+
