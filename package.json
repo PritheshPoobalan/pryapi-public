@@ -1,0 +1,14 @@
+{
+  "name": "@pryapi/pryapi-public",
+  "version": "0.1.0",
+  "description": "PryAPI SDK - pryapi-public",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Building pryapi-public\""
+  },
+  "keywords": ["pryapi", "sdk", "pryapi-public"],
+  "author": "PritheshPoobalan",
+  "license": "MIT",
+  "repository": "https://github.com/PritheshPoobalan/pryapi-public"
+}
