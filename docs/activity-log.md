@@ -40,3 +40,4 @@
 - 2026-11-25T09:43:22Z | Document known limitations
 - 2026-11-25T09:43:22Z | Add example commands block
 - 2026-11-25T09:43:22Z | Create contributing code of conduct pointer
+- 2026-11-25T09:43:22Z | Document release process
