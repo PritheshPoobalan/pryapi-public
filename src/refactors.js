@@ -25,3 +25,4 @@
 // Refactor: simplified function 243 implementation
 // Refactor: simplified function 253 implementation
 // Refactor: simplified function 263 implementation
+// Refactor: simplified function 273 implementation
