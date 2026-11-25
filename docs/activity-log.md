@@ -62,3 +62,4 @@
 - 2026-11-25T09:43:23Z | Add inline comments for async flows
 - 2026-11-25T09:43:23Z | Improve documentation consistency
 - 2026-11-25T09:43:23Z | Document logging configuration
+- 2026-11-25T09:43:23Z | Add example monitoring setup
