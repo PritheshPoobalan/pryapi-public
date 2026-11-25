@@ -142,3 +142,6 @@ Documentation notes for section 467 added.
 ## Section 477
 Documentation notes for section 477 added.
 
+## Section 487
+Documentation notes for section 487 added.
+
