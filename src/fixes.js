@@ -59,3 +59,4 @@
 // Fix: resolved issue #584 in error handling
 // Fix: resolved issue #594 in error handling
 // Fix: resolved issue #604 in error handling
+// Fix: resolved issue #614 in error handling
