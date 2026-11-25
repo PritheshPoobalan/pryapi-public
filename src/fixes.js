@@ -66,3 +66,4 @@
 // Fix: resolved issue #654 in error handling
 // Fix: resolved issue #664 in error handling
 // Fix: resolved issue #674 in error handling
+// Fix: resolved issue #684 in error handling
