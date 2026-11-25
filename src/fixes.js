@@ -30,3 +30,4 @@
 // Fix: resolved issue #294 in error handling
 // Fix: resolved issue #304 in error handling
 // Fix: resolved issue #314 in error handling
+// Fix: resolved issue #324 in error handling
