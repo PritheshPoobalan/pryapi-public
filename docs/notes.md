@@ -64,3 +64,6 @@ Documentation notes for section 207 added.
 ## Section 217
 Documentation notes for section 217 added.
 
+## Section 227
+Documentation notes for section 227 added.
+
