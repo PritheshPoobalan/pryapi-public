@@ -48,3 +48,4 @@
 // Fix: resolved issue #474 in error handling
 // Fix: resolved issue #484 in error handling
 // Fix: resolved issue #494 in error handling
+// Fix: resolved issue #504 in error handling
