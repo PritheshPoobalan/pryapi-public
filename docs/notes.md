@@ -196,3 +196,6 @@ Documentation notes for section 647 added.
 ## Section 657
 Documentation notes for section 657 added.
 
+## Section 667
+Documentation notes for section 667 added.
+
