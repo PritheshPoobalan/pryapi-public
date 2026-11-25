@@ -103,3 +103,6 @@ Documentation notes for section 337 added.
 ## Section 347
 Documentation notes for section 347 added.
 
+## Section 357
+Documentation notes for section 357 added.
+
