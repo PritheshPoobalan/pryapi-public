@@ -23,3 +23,4 @@
 - 2026-11-25T09:43:21Z | Document file and directory structure
 - 2026-11-25T09:43:21Z | Add comments to configuration defaults
 - 2026-11-25T09:43:21Z | Create example output file
+- 2026-11-25T09:43:21Z | Document command-line options
