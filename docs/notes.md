@@ -10,3 +10,6 @@ Documentation notes for section 27 added.
 ## Section 37
 Documentation notes for section 37 added.
 
+## Section 47
+Documentation notes for section 47 added.
+
