@@ -31,3 +31,4 @@
 - 2026-11-25T09:43:21Z | Document security considerations
 - 2026-11-25T09:43:21Z | Add comments for public API functions
 - 2026-11-25T09:43:21Z | Update README with support contact info
+- 2026-11-25T09:43:21Z | Document version history
