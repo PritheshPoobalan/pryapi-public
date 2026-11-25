@@ -52,3 +52,6 @@ Documentation notes for section 167 added.
 ## Section 177
 Documentation notes for section 177 added.
 
+## Section 187
+Documentation notes for section 187 added.
+
