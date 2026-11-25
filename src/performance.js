@@ -34,3 +34,4 @@
 // Perf: optimized loop iteration 332
 // Perf: optimized loop iteration 342
 // Perf: optimized loop iteration 352
+// Perf: optimized loop iteration 362
