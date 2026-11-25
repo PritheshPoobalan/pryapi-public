@@ -18,3 +18,4 @@
 // Fix: resolved issue #174 in error handling
 // Fix: resolved issue #184 in error handling
 // Fix: resolved issue #194 in error handling
+// Fix: resolved issue #204 in error handling
