@@ -91,3 +91,8 @@ Improved project documentation for pryapi-public (entry 28, 2026-11-25T08:04:17Z
 
 Improved project documentation for pryapi-public (entry 31, 2026-11-25T08:04:17Z).
 - Clarified repository structure and purpose.
+
+## Documentation update 34
+
+Improved project documentation for pryapi-public (entry 34, 2026-11-25T08:04:18Z).
+- Clarified repository structure and purpose.
