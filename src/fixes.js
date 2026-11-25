@@ -41,3 +41,4 @@
 // Fix: resolved issue #404 in error handling
 // Fix: resolved issue #414 in error handling
 // Fix: resolved issue #424 in error handling
+// Fix: resolved issue #434 in error handling
