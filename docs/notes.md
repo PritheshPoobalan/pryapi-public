@@ -157,3 +157,6 @@ Documentation notes for section 517 added.
 ## Section 527
 Documentation notes for section 527 added.
 
+## Section 537
+Documentation notes for section 537 added.
+
