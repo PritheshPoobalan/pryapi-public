@@ -205,3 +205,6 @@ Documentation notes for section 677 added.
 ## Section 687
 Documentation notes for section 687 added.
 
+## Section 697
+Documentation notes for section 697 added.
+
