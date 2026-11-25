@@ -148,3 +148,6 @@ Documentation notes for section 487 added.
 ## Section 497
 Documentation notes for section 497 added.
 
+## Section 507
+Documentation notes for section 507 added.
+
