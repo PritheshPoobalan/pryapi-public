@@ -1,6 +1,6 @@
 {
   "name": "@pryapi/pryapi-public",
-  "version": "0.1.430",
+  "version": "0.1.440",
   "description": "PryAPI SDK - pryapi-public",
   "main": "src/index.js",
   "scripts": {
