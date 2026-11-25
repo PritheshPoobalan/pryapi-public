@@ -184,3 +184,6 @@ Documentation notes for section 607 added.
 ## Section 617
 Documentation notes for section 617 added.
 
+## Section 627
+Documentation notes for section 627 added.
+
