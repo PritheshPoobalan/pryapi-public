@@ -19,3 +19,6 @@ Documentation notes for section 57 added.
 ## Section 67
 Documentation notes for section 67 added.
 
+## Section 77
+Documentation notes for section 77 added.
+
