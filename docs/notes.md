@@ -178,3 +178,6 @@ Documentation notes for section 587 added.
 ## Section 597
 Documentation notes for section 597 added.
 
+## Section 607
+Documentation notes for section 607 added.
+
