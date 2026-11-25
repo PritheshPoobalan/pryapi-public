@@ -67,3 +67,4 @@
 - 2026-11-25T09:43:23Z | Document backup and restore steps
 - 2026-11-25T09:43:23Z | Add inline comments for state management
 - 2026-11-25T09:43:23Z | Improve README linking
+- 2026-11-25T09:43:23Z | Document future roadmap items
