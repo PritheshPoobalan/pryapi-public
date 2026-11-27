@@ -1,17 +1,16 @@
 # Security Policy
 
 ## Supported Versions
-
 | Version | Supported |
-|---------|-----------|
-| main    | yes |
+| ------- | --------- |
+| 1.0.x   | :white_check_mark: |
+| < 1.0   | :x: |
 
 ## Reporting a Vulnerability
+Do not open a public GitHub issue for security vulnerabilities. Email founder@priprostudios.site with subject "SECURITY: <repository-name>" including a description, reproduction steps, and any proof-of-concept.
 
-Please disclose security issues responsibly. Do not open a public issue for
-vulnerabilities. Contact the repository owner through GitHub security advisories
-or the project contact listed in the repository.
+## What to expect
+Acknowledgment within 72 hours, investigation, status updates, and credit (unless you prefer anonymity).
 
 ## Scope
-
-This policy covers source code and configuration stored in this repository.
+Applies to all repositories under PritheshPoobalan and pipo10123451-eng, including px-* infrastructure, AI, docs, games, tools, hardware, and serverless repositories.
