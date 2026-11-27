@@ -1,70 +1,18 @@
-// CI: added pipeline step 8
-// CI: added pipeline step 18
-// CI: added pipeline step 28
-// CI: added pipeline step 38
-// CI: added pipeline step 48
-// CI: added pipeline step 58
-// CI: added pipeline step 68
-// CI: added pipeline step 78
-// CI: added pipeline step 88
-// CI: added pipeline step 98
-// CI: added pipeline step 108
-// CI: added pipeline step 118
-// CI: added pipeline step 128
-// CI: added pipeline step 138
-// CI: added pipeline step 148
-// CI: added pipeline step 158
-// CI: added pipeline step 168
-// CI: added pipeline step 178
-// CI: added pipeline step 188
-// CI: added pipeline step 198
-// CI: added pipeline step 208
-// CI: added pipeline step 218
-// CI: added pipeline step 228
-// CI: added pipeline step 238
-// CI: added pipeline step 248
-// CI: added pipeline step 258
-// CI: added pipeline step 268
-// CI: added pipeline step 278
-// CI: added pipeline step 288
-// CI: added pipeline step 298
-// CI: added pipeline step 308
-// CI: added pipeline step 318
-// CI: added pipeline step 328
-// CI: added pipeline step 338
-// CI: added pipeline step 348
-// CI: added pipeline step 358
-// CI: added pipeline step 368
-// CI: added pipeline step 378
-// CI: added pipeline step 388
-// CI: added pipeline step 398
-// CI: added pipeline step 408
-// CI: added pipeline step 418
-// CI: added pipeline step 428
-// CI: added pipeline step 438
-// CI: added pipeline step 448
-// CI: added pipeline step 458
-// CI: added pipeline step 468
-// CI: added pipeline step 478
-// CI: added pipeline step 488
-// CI: added pipeline step 498
-// CI: added pipeline step 508
-// CI: added pipeline step 518
-// CI: added pipeline step 528
-// CI: added pipeline step 538
-// CI: added pipeline step 548
-// CI: added pipeline step 558
-// CI: added pipeline step 568
-// CI: added pipeline step 578
-// CI: added pipeline step 588
-// CI: added pipeline step 598
-// CI: added pipeline step 608
-// CI: added pipeline step 618
-// CI: added pipeline step 628
-// CI: added pipeline step 638
-// CI: added pipeline step 648
-// CI: added pipeline step 658
-// CI: added pipeline step 668
-// CI: added pipeline step 678
-// CI: added pipeline step 688
-// CI: added pipeline step 698
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate repository files
+        run: |
+          test -f README.md || echo "WARNING: README.md not found"
+          test -f LICENSE || echo "WARNING: LICENSE not found"
+          test -f SECURITY.md || echo "WARNING: SECURITY.md not found"
